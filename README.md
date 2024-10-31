@@ -1,3 +1,5 @@
 # Glioma-ML
-This repository showcases a group project on the predictive modelling of low-grade glioblastoma, using differential gene expression (DGE) analysis and machine learning models (KNN and Random Forest) to identify potential biomarkers and predict tumor characteristics.
+This project involves the identification of key biomarkers associated with IDH status in low-grade glioblastoma (llg) samples, using differential gene expression analysis (DGE) and machine learning (Random forest and K-nearest neighbors).
+
+The analysis was performed by the OncoHackers team using a range of R libraries for data preprocessing, visualization, DGE analysis and ML classification.
 
